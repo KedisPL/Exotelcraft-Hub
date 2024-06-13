@@ -1,9 +1,9 @@
 {
 	"enabled": "true",
-	"version": "6.0.0-ALPHA-1",
+	"version": "6.0.0-ALPHA-2",
 	"protocolVersion": 0,
-	"title": "Title Test",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar vestibulum sem, a imperdiet mi fringilla in. Proin lectus diam, lacinia a interdum commodo, scelerisque eu dui. Donec ullamcorper lectus id augue tincidunt, in varius lacus eleifend. Proin fringilla est eget mattis ultricies. Vestibulum vitae ullamcorper mauris. Phasellus porta ante et dolor volutpat, ornare lobortis purus scelerisque. Donec ut dui rhoncus, imperdiet tortor quis, tristique risus.",
+	"title": "New version - 6.0.0 ALPHA-2",
+	"description": "Description soon!",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/generic_exotel_image.png"
 }
