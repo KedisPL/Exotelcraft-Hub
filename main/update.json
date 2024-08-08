@@ -1,10 +1,10 @@
 {
 	"enabled": "true",
-	"version": "6.0.0-ALPHA-2",
-	"protocolVersion": 1,
-	"title": "New version - 6.0.0 ALPHA-2",
-	"description": "The most important changes: The Old Villagers from 1.13.2 and their villages have been re-added to the game, but the villages are abandoned and inhabited by Old Zombie Villagers! Potato Update (24w14potato) has been partially added. More things have also been changed, added and fixed! To learn more go here: https://cotb6v.webwave.dev/exotelcraft---600-alpha-2",
+	"version": "6.0.0-ALPHA-3",
+	"protocolVersion": 2,
+	"title": "New version - 6.0.0 ALPHA-3",
+	"description": "New textures for many Exotelcraft blocks! Upgrading ruby equipment in the new Ruby Upgrading Table! 24w14potato is 95% completed and is now playable! (requires game rule) Blimstone blocks! And much more!",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
-	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---600-alpha-2"
+	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---600-alpha-3"
 }
