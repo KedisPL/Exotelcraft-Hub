@@ -1,10 +1,10 @@
 {
 	"enabled": "true",
-	"version": "6.0.0-ALPHA-3",
-	"protocolVersion": 2,
-	"title": "What's new in 6.0.0 ALPHA-3",
-	"description": "New textures for many Exotelcraft blocks! Upgrading ruby equipment in the new Ruby Upgrading Table! 24w14potato is 95% completed and is now playable! (requires game rule) Blimstone blocks! And much more!",
+	"version": "6.0.0-ALPHA-4",
+	"protocolVersion": 3,
+	"title": "What's new in 6.0.0 ALPHA-4",
+	"description": "Exotelcraft has been updated to Minecraft 1.21.2 with a few bug fixes and minor changes.",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
-	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---600-alpha-3"
+	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---600-alpha-4"
 }
