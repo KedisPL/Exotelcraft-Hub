@@ -1,0 +1,5 @@
+{
+	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
+	"title": "Exotelcraft latest news!",
+  "description": "EXOTELCRAFT - 6.0.0 ALPHA-4\nExotelcraft for Minecraft 1.21.2 is here! This is the last ALPHA version for 6.0.0. This version has minor bugs from porting to the latest version of Minecraft, which will be fixed soon. Happy playing!\n\nCHANGES IN: 6.0.0 ALPHA-4\n- Renamed Flonre Milk to Flonre Milk Bucket and changed id exotelcraft:flonre_milk to exotelcraft:flonre_milk_bucket (this item will disappear from your world if you upgrade to this version!)\n- If better_april_fools gamerule is enabled then using the Frying Table will not count towards the Campfire use statistic.\n- Removed some unused files.\n- Piglin Statue Lives now use Humanoid model.\n- The Copper Golem, which is not in use, has lost its animation (it may soon be removed completely)\n\nFIXED BUGS IN: 6.0.0 ALPHA-4\n- Flonre Milk Bucket had no regeneration effect after drinking it.\n- Exotel Grass Blocks had the wrong particle color.\n- Some small bugfixes."
+}
