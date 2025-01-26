@@ -1,10 +1,10 @@
 {
 	"enabled": "true",
-	"version": "6.0.0-BETA-1",
-	"protocolVersion": 4,
-	"title": "What's new in 6.0.0 BETA-1?",
-	"description": "A new update that brings better transformation into entities and many bug fixes and other things! 6.0.0 is now in beta instead of alpha!",
+	"version": "6.0.0-BETA-2",
+	"protocolVersion": 5,
+	"title": "What's new in 6.0.0 BETA-2?",
+	"description": "The last BETA version for 6.0.0 with many fixes! The next one will be the full release.",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
-	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---600-beta-1"
+	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---600-beta-2"
 }
