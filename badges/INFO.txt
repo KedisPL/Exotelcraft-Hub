@@ -1,0 +1,1 @@
+from https://github.com/Hyperbole-Devs/vectors/tree/neoforge_badges
