@@ -1,10 +1,11 @@
 {
 	"enabled": "true",
-	"version": "6.1.0-RELEASE",
-	"protocolVersion": 7,
-	"title": "What's new in 6.1.0 RELEASE?",
-	"description": "The new version with many bug fixes and improvements, as well as a partial addition of 25w14craftmine, is here!",
+	"version": "6.1.1-RELEASE",
+	"protocolVersion": 8,
+	"title": "What's new in 6.1.1 RELEASE?",
+	"description": "The new version with critical bug fixes!",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
-	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---610-release"
+	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---611-release"
 }
+
