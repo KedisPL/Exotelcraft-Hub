@@ -1,11 +1,12 @@
 {
 	"enabled": "true",
-	"version": "6.1.1-RELEASE",
-	"protocolVersion": 8,
-	"title": "What's new in 6.1.1 RELEASE?",
-	"description": "The new version with critical bug fixes!",
+	"version": "6.2.0-RELEASE",
+	"protocolVersion": 9,
+	"title": "What's new in 6.2.0 RELEASE?",
+	"description": "A new version for Minecraft 1.21.10 has been released that adds a world map using the new Ender Map item, as well as most of the content from 25w14craftmine!",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
-	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---611-release"
+	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---620-release"
 }
+
 
