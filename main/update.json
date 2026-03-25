@@ -1,14 +1,10 @@
 {
 	"enabled": "true",
-	"version": "6.3.0-RELEASE",
-	"protocolVersion": 10,
-	"title": "What's new in 6.3.0 RELEASE?",
-	"description": "A new version with support for 1.21.11 is here! No additional libraries are required anymore. Spears for mod materials have been added, the Bedrock Style UI has been overhauled and is now enabled by default, and more 25w14craftmine features have been included. Plus, various other improvements and bug fixes!",
+	"version": "6.4.0-RELEASE",
+	"protocolVersion": 11,
+	"title": "What's new in 6.4.0 RELEASE?",
+	"description": "Exotelcraft for Minecraft 26.1 is here! Fabric and NeoForge are now unified into a single jar for easier installation. The 25w14craftmine content is now complete, plus added new Exotelcraft wood shelves and more Bedrock UI components. Includes Lithium compatibility and a bunch of important bug fixes!",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
-	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---630-release"
+	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---640-release"
 }
-
-
-
-
