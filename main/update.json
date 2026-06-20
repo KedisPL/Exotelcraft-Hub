@@ -1,10 +1,10 @@
 {
 	"enabled": "true",
-	"version": "6.4.0-RELEASE",
-	"protocolVersion": 11,
-	"title": "What's new in 6.4.0 RELEASE?",
-	"description": "Exotelcraft for Minecraft 26.1 is here! Fabric and NeoForge are now unified into a single jar for easier installation. The 25w14craftmine content is now complete, plus added new Exotelcraft wood shelves and more Bedrock UI components. Includes Lithium compatibility and a bunch of important bug fixes!",
+	"version": "6.5.0-RELEASE",
+	"protocolVersion": 12,
+	"title": "What's new in 6.5.0 RELEASE?",
+	"description": "A new version is here for 26.2 with LTS for 26.1! This update adds 26w14a April Fools' snapshot features, expands the Bedrock-style UI, and makes improvements to the Ender Map, such as visible in-world markers and other tweaks. It also adds other things and fixes big bugs.",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
-	"changelogLink": "https://cotb6v.webwave.dev/exotelcraft---640-release"
+	"changelogLink": "https://modrinth.com/mod/exotelcraft/changelog"
 }
