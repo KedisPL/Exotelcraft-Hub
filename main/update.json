@@ -1,9 +1,9 @@
 {
 	"enabled": "true",
-	"version": "6.5.0-RELEASE",
+	"version": "6.6.0",
 	"protocolVersion": 12,
-	"title": "What's new in 6.5.0 RELEASE?",
-	"description": "A new version is here for 26.2 with LTS for 26.1! This update adds 26w14a April Fools' snapshot features, expands the Bedrock Style UI, and makes improvements to the Ender Map, such as visible in-world markers and other tweaks. It also adds other things and fixes big bugs.",
+	"title": "What's new in 6.6.0?",
+	"description": "A new version is here with an updated numbering system and new experimental features for Exotelcraft 7.0.0!",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
 	"changelogLink": "https://modrinth.com/mod/exotelcraft/changelog"
