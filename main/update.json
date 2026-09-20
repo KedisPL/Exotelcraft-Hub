@@ -1,7 +1,7 @@
 {
 	"enabled": "true",
 	"version": "6.6.1",
-	"protocolVersion": 13,
+	"protocolVersion": 14,
 	"title": "What's new in 6.6.1?",
 	"description": "A new version is here with support for 26.3 and several bug fixes!",
 	"downloadLink": "",
