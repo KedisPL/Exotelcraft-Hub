@@ -1,9 +1,9 @@
 {
 	"enabled": "true",
-	"version": "6.6.0",
-	"protocolVersion": 12,
-	"title": "What's new in 6.6.0?",
-	"description": "A new version is here with an updated numbering system and new experimental features for Exotelcraft 7.0.0!",
+	"version": "6.6.1",
+	"protocolVersion": 13,
+	"title": "What's new in 6.6.1?",
+	"description": "A new version is here with support for 26.3 and several bug fixes!",
 	"downloadLink": "",
 	"image": "https://raw.githubusercontent.com/KedisPL/Exotelcraft-Hub/main/main/images/update_image.png",
 	"changelogLink": "https://modrinth.com/mod/exotelcraft/changelog"
